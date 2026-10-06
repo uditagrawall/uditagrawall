@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditagrawall&label=Profile%20views&color=0e75b6&style=flat" alt="uditagrawall" /> </p>
 
-- 💬 Ask me about ** Java, ** Javascript, React**
+- 💬 Ask me about  Java,  Javascript, React
 
 - 📫 How to reach me **uditagrawal212@gmail.com**
 
